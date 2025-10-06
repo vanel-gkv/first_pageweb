@@ -6,8 +6,7 @@
   </head>
   <body>
    <!--contenue-->
-   <img src ="Images/logo.png" alt="logo Robbie lens "/>
-   <a href="../first.html"> Acceuil</a> 
+   <a href="
    <p> Photographe depuis plus de 5 ans , je realise des reportages aux photos
     dynamiques et pertinentes pour vos projets de communication .creativité,qualité ,
     et serennité pour vous ! Je gère tout , depuis a direction artistique ,
@@ -22,12 +21,6 @@
     <li>retouches sur mesure,</li>
     <li> Developpement .</li>
    </ul>
-   <a href="first.html">
-     <img src ="Images/logo.png" alt="logo Robbie lens "/>
-    <un target="_blank " cible="_vide" href ="https://twitter.com/">X</un> 
-     <img src ="Images/twuitter.png" alt="lodo_twitter "/>
-     <un cible="vide" href ="https://www.instagrm.com/">instagram</un>
-     <img src ="Images/instagram.png" alt="logo_instagram "/>
   </body>
 </html>
 
