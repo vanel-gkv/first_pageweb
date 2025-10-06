@@ -6,11 +6,14 @@
   </head>
   <body>
    <!--contenue-->
+   <a href="../first.html"> Acceuil</a> 
    <p> Photographe depuis plus de 5 ans , je realise des reportages aux photos
     dynamiques et pertinentes pour vos projets de communication .creativité,qualité ,
     et serennité pour vous ! Je gère tout , depuis a direction artistique ,
     réalisation du reportage, jusqu'à la livraison  de vos photos retouchées ,
     prêtes à l'emploi.";
+     <un cible="_vide" href ="https://.com/">X</un>
+     <un cible="vide" href ="https://www.instagrm.com/">instagram</un>
    </p>
    <h2> Services </h2>
    <ul>
