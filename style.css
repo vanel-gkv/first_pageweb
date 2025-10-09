@@ -25,4 +25,17 @@ li{
     font-family:'Manrope',sans-serif;
 }
 
+div{
+    background-color:white;
+    color :#242424;
+}
 
+body{
+background-color: #1f2039;
+}
+
+p,
+li,
+h2{
+    color:#F9F8FF;
+}
