@@ -46,3 +46,14 @@ h2{
     background:linear-gradient(90deg,#8E86B5,#ACAEED);
     color :white;
 }
+.arondi
+{
+  border-right-width:1px ;
+  border-left-width: 1px;
+  border-color: #8e86B5;
+}
+
+.bordure 
+{
+ border: radius 50px;
+}
