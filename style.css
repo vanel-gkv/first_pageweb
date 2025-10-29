@@ -1,3 +1,7 @@
+*
+{
+  margin:0;
+}
 body {
   font-family: 'Manrope', sans-serif;
   font-size: 1em;
@@ -7,6 +11,11 @@ body {
 a:hover {
   color: #242424;
   text-decoration:underline;
+}
+
+a{
+  color:#242424;
+  text-decoration: none;
 }
 
 em {
@@ -46,7 +55,31 @@ li {
 .carre-contenu {
   border-right: 1px solid #8e86b5;
   border-bottom: 1px solid #8e86b5;
+  padding:50px;
 }
-a:hover{
- text-decoration:underline;
+header,
+footer
+{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color:white;
+}
+
+section{
+  padding:80px;
+}
+
+.contenue
+{
+ margin:auto;
+}
+.carre-contenu h2
+{
+  margin: 20px;
+}
+.carre-contenu ul
+{
+  margin: 20px;
 }
